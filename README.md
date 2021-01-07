@@ -12,4 +12,6 @@ Para ello el conjunto de datos consta de dos .csv uno con las imágenes de entre
  - Transfer learning.
  - Fine tuning.
  - Técnicas de reducción del overfitting (sobreajuste). Entre ellas disminución del tamaño de redes, regularización de los pesos de las neuronas, dropout y bachnormalizactión.
- 
+
+# Resultados
+![Resultado logrado con Fine Tuning](Images/Resultado.png "Resultado del submit")
